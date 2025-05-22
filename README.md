@@ -39,3 +39,5 @@ waktu = now.strftime("%d %m %Y %H:%M:%S")
 - Link menuju source code anda di github (masing-masing harus punya repository di github)
 - Capturelah hasil eksekusi program server anda
 - Semua poin, harus dilengkapi dengan deskripsi dan penjelasan minimum 50 kata
+
+![capture-hasil-eksekusi-server](asset/capture-hasil-eksekusi-server.png)
